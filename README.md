@@ -8,3 +8,17 @@ Requirements:
 - Attack damage is random. Normal attack damage is 1. Critical attack damage is 4.
 - Defence (Avoid attack) is random. 
 - The game will end when either one character has no more health.
+
+OOP principels and C# features implemented:
+- class
+- object
+- constructor
+- this
+- field
+- property
+- readonly 
+- const
+- switch case
+- string interpolation
+- while loop
+- Random class
