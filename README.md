@@ -1,11 +1,13 @@
 # DeathBattleGame_WithOOP
 
-Software Development Technology: C#
-Software Development Framework: .NET Core 2.2
-IDE: Visual Studio Code (Version 1.31.1)
-Paradigm or pattern of programming: Object-Oriented Programming (OOP)
+### Software Development Summary
+- Technology: C#
+- Framework: .NET Core 2.2
+- Project Type: Console
+- IDE: Visual Studio Code (Version 1.31.1)
+- Paradigm or pattern of programming: Object-Oriented Programming (OOP)
 
-Requirements:
+### Requirements:
 - When you run the program, user can enter the two character name.
 - Once entered, the program will automatically let both character attack each other. Each attack will cause some health damage or none damage (if attack is avoided).
 - Print all the attack, defence and health level.
@@ -13,7 +15,7 @@ Requirements:
 - Defence (Avoid attack) is random. 
 - The game will end when either one character has no more health.
 
-OOP principels and C# features implemented:
+### OOP principels and C# features implemented:
 - class
 - object
 - constructor
