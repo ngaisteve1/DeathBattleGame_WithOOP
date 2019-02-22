@@ -29,5 +29,4 @@
 - while loop
 - Random class
 
-<script type='text/javascript' src='https://ko-fi.com/widgets/widget_2.js'></script>
-    <script type='text/javascript'>kofiwidget2.init('Buy me a cup of coffee! Support Me on Ko-fi', '#46b798', 'V7V2PN67'); kofiwidget2.draw();</script>
+[If this content is helpful to you, consider to support and buy me a cup of coffee :) ](https://ko-fi.com/V7V2PN67)
