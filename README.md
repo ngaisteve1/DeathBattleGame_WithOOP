@@ -1,5 +1,9 @@
 # DeathBattleGame_WithOOP
-Implement some OOP principles from a procedural code
+
+Software Development Technology: C#
+Software Development Framework: .NET Core 2.2
+IDE: Visual Studio Code (Version 1.31.1)
+Paradigm or pattern of programming: Object-Oriented Programming (OOP)
 
 Requirements:
 - When you run the program, user can enter the two character name.
