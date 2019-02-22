@@ -22,3 +22,4 @@ OOP principels and C# features implemented:
 - string interpolation
 - while loop
 - Random class
+
