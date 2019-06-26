@@ -29,4 +29,7 @@
 - while loop
 - Random class
 
+### Other Versions
+- [Battle Game in Javascript](https://github.com/ngaisteve1/DeathBattleGameJS)
+
 [If this content is helpful to you, consider to support and buy me a cup of coffee :) ](https://ko-fi.com/V7V2PN67)
