@@ -9,7 +9,7 @@ namespace battle2
         static void Main(string[] args)
         {
             BattleGame app = new BattleGame();
-            app.Start();
+            app.Execute();
         }
 
     }
